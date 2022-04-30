@@ -32,3 +32,5 @@ Console.WriteLine($"Your age is {age}");
 Console.WriteLine($"Your salary is {salary}");
 Console.WriteLine($"Your gender is {gender}");
 Console.WriteLine($"You are employed: {working}");
+
+// Testing modifications
